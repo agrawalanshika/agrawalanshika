@@ -78,11 +78,19 @@ This GitHub serves as a portfolio of my projects, experiments, and continuous le
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=agrawalanshika\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+## 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=agrawalanshika\&theme=tokyonight\&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agrawalanshika&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalanshika\&theme=tokyonight\&hide_border=true\&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agrawalanshika&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalanshika&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 📈 Contribution Graph
 
