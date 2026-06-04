@@ -1,5 +1,5 @@
-# 💫 About Me
-# 👋 Hi, I'm Anshika Agrawal
+## 💫 About Me
+## 👋 Hi, I'm Anshika Agrawal
 
 🎓 B.Tech Computer Science Undergraduate specializing in Artificial Intelligence with a passion for building intelligent systems, solving complex problems, and transforming ideas into impactful software solutions.
 
@@ -13,7 +13,7 @@
 * Building scalable applications and experimenting with modern technologies
 
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### 🚀 Languages
 
@@ -73,7 +73,7 @@ This GitHub serves as a portfolio of my projects, experiments, and continuous le
 
 ### ✨ "Always Curious. Always Learning. Always Building."
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=agrawalanshika\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
 
@@ -81,7 +81,7 @@ This GitHub serves as a portfolio of my projects, experiments, and continuous le
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalanshika\&theme=tokyonight\&hide_border=true\&layout=compact)
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 [![Anshika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agrawalanshika\&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
