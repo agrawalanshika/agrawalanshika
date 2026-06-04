@@ -75,24 +75,3 @@
 This GitHub serves as a portfolio of my projects, experiments, and continuous learning journey across Artificial Intelligence, Software Engineering, and Computer Science. You'll find implementations, research-driven projects, and hands-on explorations of emerging technologies.
 
 ### ✨ "Always Curious. Always Learning. Always Building."
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agrawalanshika&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=agrawalanshika&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalanshika&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-## 📈 Contribution Graph
-
-[![Anshika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agrawalanshika\&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
