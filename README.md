@@ -1,4 +1,4 @@
-## 💫 About Me
+# 💫 About Me
 ## 👋 Hi, I'm Anshika Agrawal
 
 🎓 B.Tech Computer Science Undergraduate specializing in Artificial Intelligence with a passion for building intelligent systems, solving complex problems, and transforming ideas into impactful software solutions.
