@@ -63,6 +63,21 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
+## 🚀 Featured Projects
+
+### 🤖 [RecruitIQ – AI Hiring Assistant](https://github.com/agrawalanshika/RecruitIQ-AI-Hiring-Assistant)
+
+AI-powered recruitment platform featuring semantic resume matching, candidate ranking, PDF reporting, recruitment history tracking, and a secure HR dashboard built using LangChain and Streamlit.
+
+### 🍷 [Wine Recommendation RAG](https://github.com/agrawalanshika/wine-recommendation-rag)
+
+Retrieval-Augmented Generation (RAG) system leveraging Qdrant vector database, Sentence Transformers, and LLMs to provide intelligent wine recommendations through a Streamlit interface.
+
+### 🚕 [RouteMind AI](https://github.com/agrawalanshika/Routemind-AI)
+
+Reinforcement Learning-based navigation simulator built on the Taxi-v3 environment, utilizing Q-Learning to optimize route planning and visualize agent learning in real time.
+
+
 ## 🌱 Currently Learning
 
 * Advanced Computer Vision with OpenCV & YOLO
