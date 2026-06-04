@@ -1,8 +1,19 @@
-# 💫 About Me:
-👋 Hi, I’m Anshika Agrawal<br><br>I’m a B.Tech undergraduate specializing in Artificial Intelligence, passionate about building intelligent systems and writing efficient, scalable code. I enjoy exploring the intersection of AI, data, and software development, and continuously improving my problem-solving skills.<br><br>💻 Technical Skills<br><br>Programming Languages: C / C++, Python, Java<br><br>Core CS: Data Structures & Algorithms (C++)<br><br>Web Development: HTML, CSS, JavaScript<br><br>AI & ML: Machine Learning, Deep Learning fundamentals, and advanced Python libraries<br><br>🚀 What I Do<br><br>Solve algorithmic problems using DSA in C++<br><br>Build AI/ML models and experiment with real-world datasets<br><br>Develop responsive web applications<br><br>Learn and implement new technologies through hands-on projects<br><br>📌 This GitHub is a collection of my projects, experiments, and learning journey in AI, software development, and computer science.<br><br>✨ Always curious. Always learning.
+# 💫 About Me
+# 👋 Hi, I'm Anshika Agrawal
+
+🎓 B.Tech Computer Science Undergraduate specializing in Artificial Intelligence with a passion for building intelligent systems, solving complex problems, and transforming ideas into impactful software solutions.
+
+💡 My interests span Artificial Intelligence/Machine Learning and Software Development. I enjoy exploring how data, algorithms, and technology come together to solve real-world challenges.
+
+## 🚀 What I'm Working On
+
+* Developing AI/ML projects
+* Strengthening Data Structures & Algorithms in C/C++
+* Exploring Generative AI, LLMs, and Reinforcement Learning
+* Building scalable applications and experimenting with modern technologies
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ### 🚀 Languages
 
@@ -49,12 +60,28 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=agrawalanshika&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=agrawalanshika&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalanshika&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌱 Currently Learning
 
----
-[![](https://visitcount.itsvg.in/api?id=agrawalanshika&icon=0&color=0)](https://visitcount.itsvg.in)
+* Advanced Computer Vision with OpenCV & YOLO
+* FastAPI and AI Application Development
+* System Design Fundamentals
+* Advanced DSA and Competitive Programming
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📂 About This GitHub
+
+This GitHub serves as a portfolio of my projects, experiments, and continuous learning journey across Artificial Intelligence, Software Engineering, and Computer Science. You'll find implementations, research-driven projects, and hands-on explorations of emerging technologies.
+
+### ✨ "Always Curious. Always Learning. Always Building."
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=agrawalanshika\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=agrawalanshika\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=agrawalanshika\&theme=tokyonight\&hide_border=true\&layout=compact)
+
+# 📈 Contribution Graph
+
+[![Anshika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=agrawalanshika\&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
