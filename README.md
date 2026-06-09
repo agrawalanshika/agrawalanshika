@@ -1,13 +1,13 @@
 # 💫 About Me
 ## Hi, I'm Anshika Agrawal 👋
 
-B.Tech Computer Science undergraduate specializing in Artificial Intelligence. I build end-to-end ML systems — from training models to deploying them as usable applications — and I'm particularly drawn to problems where AI can have a tangible real-world impact.
+B.Tech Computer Science undergraduate specializing in Artificial Intelligence. I enjoy building Machine Learning projects — from training models to putting them together as working applications and I'm particularly interested in how Artificial Intelligence can be applied to solve real-world problems.
 
 ---
 
 ## 🔭 Currently Working On
 
-- 🩺 **MedVisionAI** — a multimodal medical imaging platform for disease detection across Brain MRI, Brain CT, Chest X-Ray, and Chest CT scans
+- 🔍 Exploring real-time object detection with OpenCV and YOLO
 - 📊 Strengthening DSA fundamentals in C/C++
 - 🤖 Exploring LLMs, Generative AI, and Reinforcement Learning
 
@@ -77,6 +77,6 @@ Retrieval-Augmented Generation system using Qdrant vector database and Sentence 
 
 ---
 
-*This GitHub is a running record of what I'm building, learning, and exploring across AI and software engineering.*
+### **This GitHub is a running record of what I'm building, learning, and exploring across AI and software engineering.**
 
-> *"Always Curious. Always Learning. Always Building."*
+### > *"Always Curious. Always Learning. Always Building.✨"*
