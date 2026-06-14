@@ -59,7 +59,7 @@ B.Tech Computer Science undergraduate specializing in Artificial Intelligence. I
 ## 🚀 Featured Projects
 
 ### 🩺 [MedVisionAI — Multimodal Medical Imaging Platform](https://github.com/agrawalanshika/MedVisionAI)
-Deep learning platform that automatically detects the imaging modality of an uploaded scan (Brain MRI, Brain CT, Chest X-Ray, Chest CT), routes it to the appropriate disease classifier, and generates a downloadable PDF diagnostic report with Grad-CAM explainability. Built with PyTorch and Streamlit across five fine-tuned models.
+Deep learning platform that automatically detects the imaging modality of an uploaded scan (Brain MRI, Brain CT, Chest X-Ray, Chest CT), routes it to the appropriate disease classifier, and generates a downloadable PDF diagnostic report with Grad-CAM explainability. Built with PyTorch and Streamlit across four fine-tuned models.
 
 ### 🤖 [RecruitIQ — AI Hiring Assistant](https://github.com/agrawalanshika/RecruitIQ-AI-Hiring-Assistant)
 AI-powered recruitment platform with semantic resume matching, candidate ranking, PDF reporting, and a secure HR dashboard. Built using LangChain and Streamlit.
