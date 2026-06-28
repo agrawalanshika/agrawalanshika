@@ -9,7 +9,7 @@ B.Tech Computer Science undergraduate specializing in Artificial Intelligence. I
 
 - 🔍 Exploring real-time object detection with OpenCV and YOLO
 - 📊 Strengthening DSA fundamentals in C/C++
-- 🤖 Exploring LLMs, Generative AI, and Reinforcement Learning
+- 🤖 Exploring LLMs, Generative AI, and Reinforcement Learning and AI system design.
 
 ---
 
