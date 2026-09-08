@@ -112,7 +112,7 @@ A Retrieval-Augmented Generation application that combines **Qdrant vector searc
 
 ## 🌱 Currently Learning
 
-- Exploring Agentic Artificial Intelligence.
+- Agentic Artificial Intelligence and its workflow.
 - Advanced Data Structures & Algorithms and competitive problem solving along with system design fundamentals.
 
 ---
