@@ -20,7 +20,7 @@ I'm particularly interested in designing practical AI systems that combine stron
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,typescript,javascript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java&theme=dark" />
 </p>
 
 ### AI / Machine Learning
@@ -45,7 +45,6 @@ I'm particularly interested in designing practical AI systems that combine stron
 </p>
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=for-the-badge&logo=framer&logoColor=white)
 
 ### Backend & Databases
 
@@ -64,7 +63,6 @@ I'm particularly interested in designing practical AI systems that combine stron
 </p>
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
