@@ -70,7 +70,7 @@ I'm particularly interested in designing practical AI systems that combine stron
 
 ## 🚀 Featured Projects
 
-### ✨ [PersonaFeed — A Personalized Content Dashboard](YOUR_GITHUB_REPO_LINK)
+### ✨ [PersonaFeed — A Personalized Content Dashboard](https://github.com/agrawalanshika/PersonaFeed)
 
 A modern personalized content discovery platform that brings **news, movies, and social content** into one unified dashboard. Users can customize their interests, explore dynamically curated feeds, and discover relevant content through an intuitive interface.
 
