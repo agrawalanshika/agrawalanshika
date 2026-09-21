@@ -70,6 +70,16 @@ I'm particularly interested in designing practical AI systems that combine stron
 
 ## 🚀 Featured Projects
 
+### ✨ [PersonaFeed — A Personalized Content Dashboard](YOUR_GITHUB_REPO_LINK)
+
+A modern personalized content discovery platform that brings **news, movies, and social content** into one unified dashboard. Users can customize their interests, explore dynamically curated feeds, and discover relevant content through an intuitive interface.
+
+The application includes **real-time API integration, global search, infinite scrolling, drag-and-drop feed ordering, favorites persistence, and dark mode**, with smooth animations and responsive design for an enhanced user experience.
+
+**Tech:** Next.js · React · TypeScript · Tailwind CSS · Redux Toolkit · RTK Query · Framer Motion · dnd-kit · Vitest · React Testing Library
+
+---
+
 ### 🩺 [MedVisionAI — Multimodal Medical Imaging Platform](https://github.com/agrawalanshika/MedVisionAI)
 
 A deep learning platform for automated medical image analysis. The system identifies the imaging modality of an uploaded scan — **Brain MRI, Brain CT, Chest X-Ray, or Chest CT** — and routes it to the corresponding disease classification model.
@@ -97,15 +107,6 @@ A production-inspired **Typeform-style full-stack application** featuring a visu
 The application follows a scalable **client-server architecture**, with a Next.js frontend communicating with a RESTful FastAPI backend backed by SQLAlchemy and SQLite. It supports drag-and-drop question reordering, multiple question types, form publishing, public shareable links, response collection, and per-question analytics.
 
 **Tech:** Next.js · TypeScript · TailwindCSS · FastAPI · SQLAlchemy · SQLite · REST APIs · Vercel · Render
-
----
-
-### 🍷 [Wine Recommendation RAG](https://github.com/agrawalanshika/wine-recommendation-rag)
-
-A Retrieval-Augmented Generation application that combines **Qdrant vector search** and **Sentence Transformers** to retrieve relevant wine information and generate intelligent recommendations through a conversational interface.
-
-**Tech:** RAG · Qdrant · Sentence Transformers · LangChain · Streamlit
-
 
 
 ---
